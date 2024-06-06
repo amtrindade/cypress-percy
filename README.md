@@ -21,7 +21,7 @@ Exporte como uma variável de ambiente o token do seu projeto (disponível no da
 
 ```
 # Unix
-$ set export PERCY_TOKEN=<seu token>
+$ export PERCY_TOKEN=<seu token>
 ```
 
 > Fonte: https://www.browserstack.com/docs/percy/get-started/create-project
